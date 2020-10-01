@@ -76,6 +76,9 @@ pip install -r requirements.txt
 (-)Imbalanced data in dataset so performing undersampling,oversampling and smote
 5.2) Random Forest hyper parameter tuning 
 ```
+```diff
+Used all classification algorithms but Random Forest using hyper parameter technique got the better result such as precison,recall,accuracy=83%.
+```
 
 # Deployment in local machine using streamlit
 
