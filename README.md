@@ -19,7 +19,7 @@
 
 Link: https://datacredit.herokuapp.com/
 
-<img src='photos/appscreenshot.jpg' width="700" height="400">
+<img src='photos/appscreenshot.png' width="700" height="400">
 
 # Dataset Information
 
