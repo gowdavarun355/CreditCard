@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```diff
 Used classification machine algorithms such as Logistic Regression and Random Forest but Random Forest performed very well.Random Forest using hyper parameter technique got the better result such as precison,recall,accuracy=83%,confusion matrix.
 ```
-
+- Create and Pickle a Machine Learning Model
 ```diff
 import pickle
 pickle.dump(model, open(‘model.pkl’, ‘wb’))
