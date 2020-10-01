@@ -64,9 +64,9 @@ pip install -r requirements.txt
 # Technical Aspect
 
 ```diff
-- 1)Data Cleaning
-- 1.1) Finding Out missing values
-- 1.1) Finding out Outliers 
+1)Data Cleaning
+1.1) Finding Out missing values
+1.1) Finding out Outliers 
 - 2) Data Exploration
 - 3) Feature Engineering
 - 3.1) One hot encoding
