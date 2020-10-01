@@ -14,7 +14,6 @@
 - To Do
 - Bug / Feature Request
 - Technologies Used
-- Credits
 
 # Demo
 
@@ -76,6 +75,8 @@ pip install -r requirements.txt
 (-)Imbalanced data in dataset so performing undersampling,oversampling and smote
 5.2) Random Forest hyper parameter tuning 
 ```
+
+
 
 
 
