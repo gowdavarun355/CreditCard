@@ -19,6 +19,8 @@
 
 Link: https://datacredit.herokuapp.com/
 
+<img src='photos/appscreenshot.jpg' width="700" height="400">
+
 # Dataset Information
 
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients
