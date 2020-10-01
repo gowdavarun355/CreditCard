@@ -92,15 +92,20 @@ Name Streamlit app
 The route to predict is created in app.py and even template is created in app.py only
 ```
 # procfile
-A Procfile specifies the commands that are executed by a Heroku app on startup. To create one, open up a new file named Procfile (no extension) in the working directory and paste the following.
+A Procfile specifies the commands that are executed by a Heroku app on startup. To create one, open up a new file named Procfile (no extension) in the working directory and paste the following. streamlit command to run our app
 
 ```diff
-web: gunicorn app:app
+  web: sh setup.sh && streamlit run app.py
 ```
 
 # Create requirements.txt
 ```diff
 The requirements.txt file will contain all of the dependencies for the flask app. To create a requirements.txt, run the following in your terminal from the working directory:
+```
+
+# setup.sh
+```diff
+Moving on to setup.sh, we will create the file the same way we created the last two, by creating a new txt file in Jupyter Notebook. By the way, don’t forget to rename your files with the appropriate extensions. setup.sh, like requirements.txt helps create the necessary environment for our streamlit app to run.
 ```
 
 # Deployment in local machine using Streamlit
