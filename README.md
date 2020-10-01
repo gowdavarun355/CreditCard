@@ -123,12 +123,12 @@ streamlit run -- app.py
 
 # Deployment of machine learning model in Heroku using Streamlit
 
-```diff
+
 1) First Create app name
 2) Make sure it is connected to GitHub
 <img src='photos/github.png' width="700" height="400">
 3) Then click press on Deploy
-```
+
 
 
 
