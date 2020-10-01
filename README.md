@@ -83,6 +83,16 @@ pip install -r requirements.txt
 streamlit run -- app.py
 ```
 
+# Deployment of machine learning model in Heroku using Flask
+
+```diff
+1) First Create app name
+2) Make sure it is connected to GitHub
+3) Then click press on Deploy
+```
+
+
+
 
 
 
