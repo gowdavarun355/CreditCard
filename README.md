@@ -77,7 +77,7 @@ pip install -r requirements.txt
 5.2) Random Forest hyper parameter tuning 
 ```
 ```diff
-Used all classification algorithms but Random Forest using hyper parameter technique got the better result such as precison,recall,accuracy=83%.
+Used all classification algorithms but Random Forest performed very well.Random Forest using hyper parameter technique got the better result such as precison,recall,accuracy=83%,confusion matrix.
 ```
 
 # Deployment in local machine using streamlit
