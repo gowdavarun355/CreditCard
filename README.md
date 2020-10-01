@@ -58,8 +58,7 @@ There are 25 variables:
 To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
 ```diff
-- pip install -r requirements.txt
-
+pip install -r requirements.txt
 ```
 
 
