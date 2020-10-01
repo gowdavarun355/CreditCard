@@ -6,8 +6,8 @@
 
 - Demo
 - Dataset Information
--
 - Installation
+- Technical Aspect
 - Run
 - Deployement on Heroku
 - Directory Tree
@@ -59,6 +59,22 @@ To install the required packages and libraries, run this command in the project 
 
 ```diff
 pip install -r requirements.txt
+```
+
+# Technical Aspect
+
+```diff
+- 1)Data Cleaning
+- 1.1) Finding Out missing values
+- 1.1) Finding out Outliers 
+- 2) Data Exploration
+- 3) Feature Engineering
+- 3.1) One hot encoding
+- 4) Feature Selection
+- 5) Algorithm 
+- 5.1) Logistic Regression
+- Imbalanced data in dataset so performing undersampling,oversampling and smote
+- 5.2) Random Forest hyper parameter tuning 
 ```
 
 
