@@ -128,6 +128,7 @@ streamlit run -- app.py
 2) Make sure it is connected to GitHub
 <img src='photos/github.png' width="700" height="400">
 3) Then click press on Deploy
+<img src='photos/github1.png' width="700" height="400">
 
 
 
