@@ -53,6 +53,12 @@ There are 25 variables:
 - PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 - default.payment.next.month: Default payment (1=yes, 0=no)
 
+# Installation
+
+To install the required packages and libraries, run this command in the project directory after cloning the repository:
+
+pip install -r requirements.txt
+
 
 
 
