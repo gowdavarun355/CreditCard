@@ -80,13 +80,13 @@ pip install -r requirements.txt
 Used all classification algorithms but Random Forest performed very well.Random Forest using hyper parameter technique got the better result such as precison,recall,accuracy=83%,confusion matrix.
 ```
 
-# Deployment in local machine using streamlit
+# Deployment in local machine using Streamlit
 
 ```diff
 streamlit run -- app.py
 ```
 
-# Deployment of machine learning model in Heroku using Flask
+# Deployment of machine learning model in Heroku using Streamlit
 
 ```diff
 1) First Create app name
