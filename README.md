@@ -9,6 +9,7 @@
 - Installation
 - Technical Aspect
 - Run
+- Deployment in local machine using streamlit
 - Deployement on Heroku
 - Directory Tree
 - To Do
@@ -74,6 +75,12 @@ pip install -r requirements.txt
 5.1) Logistic Regression
 (-)Imbalanced data in dataset so performing undersampling,oversampling and smote
 5.2) Random Forest hyper parameter tuning 
+```
+
+# Deployment in local machine using streamlit
+
+```diff
+streamlit run -- app.py
 ```
 
 
