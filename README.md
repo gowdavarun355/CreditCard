@@ -33,3 +33,6 @@ There are 25 variables:
 - default.payment.next.month: Default payment (1=yes, 0=no)
 
 
+![](img.jpg)
+
+
