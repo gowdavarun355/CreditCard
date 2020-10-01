@@ -9,10 +9,9 @@
 - Installation
 - Technical Aspect
 - Run
+- 
 - Deployment in local machine using streamlit
 - Deployement on Heroku
-- Directory Tree
-- To Do
 - Bug / Feature Request
 - Technologies Used
 
@@ -75,9 +74,33 @@ pip install -r requirements.txt
 5.1) Logistic Regression
 (-)Imbalanced data in dataset so performing undersampling,oversampling and smote
 5.2) Random Forest hyper parameter tuning 
+5.3) Create and Pickle a Machine Learning Model
 ```
 ```diff
 Used all classification algorithms but Random Forest performed very well.Random Forest using hyper parameter technique got the better result such as precison,recall,accuracy=83%,confusion matrix.
+```
+
+# Write Streamlit App
+
+Open up your jupyter notebook and create a new .py file inside the working directory named app.py
+
+The structure of the code follows:
+
+```diff
+Load pickled model
+Name Streamlit app
+The route to predict is created in app.py and even template is created in app.py only
+```
+# procfile
+A Procfile specifies the commands that are executed by a Heroku app on startup. To create one, open up a new file named Procfile (no extension) in the working directory and paste the following.
+
+```diff
+web: gunicorn app:app
+```
+
+# Create requirements.txt
+```diff
+The requirements.txt file will contain all of the dependencies for the flask app. To create a requirements.txt, run the following in your terminal from the working directory:
 ```
 
 # Deployment in local machine using Streamlit
