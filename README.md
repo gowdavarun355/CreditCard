@@ -3,6 +3,9 @@
 # Dataset Information
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients
 
+
+<img src='img.jpg' width="700" height="400">
+
 Content
 There are 25 variables:
 
@@ -32,7 +35,6 @@ There are 25 variables:
 - PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 - default.payment.next.month: Default payment (1=yes, 0=no)
 
-<img src='img.jpg' width="800" height="400">
 
 
 
