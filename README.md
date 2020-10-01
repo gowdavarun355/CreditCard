@@ -1,10 +1,28 @@
 # Credit Card default prediction
 
-# Dataset Information
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients
-
-
 <img src='img.jpg' width="700" height="400">
+
+# Contents
+
+- Demo
+- Dataset Information
+-
+- Installation
+- Run
+- Deployement on Heroku
+- Directory Tree
+- To Do
+- Bug / Feature Request
+- Technologies Used
+- Credits
+
+# Demo
+
+Link:
+
+# Dataset Information
+
+This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients
 
 Content
 There are 25 variables:
@@ -36,23 +54,6 @@ There are 25 variables:
 - default.payment.next.month: Default payment (1=yes, 0=no)
 
 
-# Contents
-
-- Demo
-- Overview
--
-- Installation
-- Run
-- Deployement on Heroku
-- Directory Tree
-- To Do
-- Bug / Feature Request
-- Technologies Used
-- Credits
-
-# Demo
-
-Link:
 
 
 
